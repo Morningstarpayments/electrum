@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Electrum
+Version: 2.8.3
+Summary: Lightweight Morningstar Wallet
+Home-page: http://www.morningstar.org
+Author: Thomas Voegtlin
+Author-email: thomasv@electrum.org
+License: MIT Licence
+Description: Lightweight Morningstar Wallet
+Platform: UNKNOWN
